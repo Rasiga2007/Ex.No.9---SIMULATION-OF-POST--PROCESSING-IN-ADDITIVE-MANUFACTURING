@@ -46,9 +46,14 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+<img width="1049" height="559" alt="Screenshot 2026-03-23 203521" src="https://github.com/user-attachments/assets/5d4b01da-41f8-4759-8193-94d34761e27e" />
 
-### Name:
-### Register Number:
+<img width="1046" height="557" alt="Screenshot 2026-03-23 203532" src="https://github.com/user-attachments/assets/e3a1f90a-00a6-4a68-b089-76ce05d24018" />
+
+<img width="1042" height="547" alt="image" src="https://github.com/user-attachments/assets/bce16bc0-c405-4ca3-9dcf-bba6ccdba4ee" />
+
+### Name: RASIGA S
+### Register Number:212225220081
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
